@@ -9,7 +9,7 @@ import Home from './component/home/Home'
 import Testimonials from './component/testimonial/Testimonials'
 import Contact from './component/contact/Contact'
 import Footer from './component/footer/Footer'
-import VideoPlayer from './component/videoPlayer/VideoPlayer'
+
 
 const App = () => {
 
@@ -36,7 +36,7 @@ const App = () => {
       
       </div>
      
-        <VideoPlayer playState={playState} setPlayState={setPlayState} /> 
+        {/* <VideoPlayer playState={playState} setPlayState={setPlayState} />  */}
       
     </div>
   )
