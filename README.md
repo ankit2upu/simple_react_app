@@ -3,7 +3,7 @@
 A simple and responsive website built using **React.js**, **JavaScript**, and **CSS** as part of my college project.
 
 ## 🚀 Live Demo
-👉 [Click here to view the project](https://your-live-link.com)
+👉 [Click here to view the project](https://ankitrupubasicreact.netlify.app/)
 
 ## 📸 Preview
 ()
