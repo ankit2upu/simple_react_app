@@ -2,12 +2,10 @@
 
 A simple and responsive website built using **React.js**, **JavaScript**, and **CSS** as part of my college project.
 
-## 🚀 Live Demo
-👉 [Click here to view the project](https://ankitrupubasicreact.netlify.app/)
-
-## 📸 Preview
-()
-
+ ---
+## 🌐 Live Demo
+  👉 [![Live Demo](https://img.shields.io/badge/Live-Demo-green)](https://ankitrupubasicreact.netlify.app/)
+---
 ## 🛠️ Technologies Used
 
 - React.js
